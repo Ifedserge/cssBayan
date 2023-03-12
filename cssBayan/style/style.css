@@ -95,3 +95,14 @@ input:checked + label span{
         height: 250px;
     }
 }
+@media (max-width: 320px){
+    .title h1{
+        font-size: 25px;
+    }
+    .content label {
+        font-size: 0.8em;
+    }
+    .mem_contnent img{
+        height: 150px;
+    }
+}
